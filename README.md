@@ -1,1 +1,1 @@
-Test project for github hook 1s
+Test project for github hook
