@@ -3,7 +3,7 @@ using Microsoft.Extensions.Logging;
 using System.Text.Json;
     
 namespace AiMultiAgent.Core.Agents.CodeReview;
-   
+      
 /// <summary>
 /// Агент для вы    полнения автоматического code review с помощью LLM.
 /// Вызывается PM-агентом через MCP как инструмент <c>code_review</c>.
