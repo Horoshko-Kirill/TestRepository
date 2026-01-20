@@ -1,1 +1,1 @@
-Test project for
+Test project
