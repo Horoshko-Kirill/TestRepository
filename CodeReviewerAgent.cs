@@ -5,7 +5,7 @@ using System.Text.Json;
 namespace AiMultiAgent.Core.Agents.CodeReview;
           
 /// <summary>         
-/// Агент для выполнения   а втом атическ   ого   code review с помощью LLM.
+/// Агент для выполнения   а в том атическ   ого   code review с помощью LLM.
 /// Вызывается PM-аг  ентом чере з MCP  как инструмент <c>code_review</c>.
 /// Получает файл и код , зап  ра   шивает LLM и возвращает структурированный результат ревью.
 /// </summary>
