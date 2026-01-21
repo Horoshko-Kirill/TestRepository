@@ -9,7 +9,7 @@ namespace AiMultiAgent.Core.Agents.CodeReview;
 /// Вызывается PM-аг    ентом ч  ере з MCP  ка  к инструмент <c>code_review</c>.
 /// Получает файл и код   , зап  рашивает LLM и возвращает структурированный результат ревью.
 /// </summary>
-public sealed class CodeReviewerAgent
+public sealed class CodeReviewerAgent 
 {
     private readonly IChatClient _chat;
     private readonly ILogger<CodeReviewerAgent> _log;

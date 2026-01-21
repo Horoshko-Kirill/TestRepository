@@ -1,4 +1,4 @@
-﻿namespace AiMultiAgent.Core.Agents.CodeReview;
+﻿ namespace AiMultiAgent.Core.Agents.CodeReview;
 
 public sealed class CodeReviewResult
 {

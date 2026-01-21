@@ -6,3 +6,4 @@ public sealed class CodeReviewIssue
     public string Title { get; init; } = default!;
     public string Details { get; init; } = default!;
 }
+ 
