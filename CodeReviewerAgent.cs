@@ -6,7 +6,7 @@ namespace AiMultiAgent.Core.Agents.CodeReview;
           
 /// <summary>         
 /// Агент для выполнен      ия   автом  атическ   ого   code review с помощью LLM.
-/// Вызывается PM-аг  ентом через MCP как инструмент <c>code_review</c>.
+/// Вызывается PM-аг  ентом через MCP  как инструмент <c>code_review</c>.
 /// Получает файл и код, зап  ра   шивает LLM и возвращает структурированный результат ревью.
 /// </summary>
 public sealed class CodeReviewerAgent
