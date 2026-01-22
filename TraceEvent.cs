@@ -1,5 +1,5 @@
 ﻿namespace AiMultiAgent.Core.Agents.Pm;
-
+  
 public sealed record TraceEvent(
     DateTimeOffset Ts, 
     string Type, 

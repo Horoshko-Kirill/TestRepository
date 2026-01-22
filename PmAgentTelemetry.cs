@@ -10,7 +10,7 @@ namespace AiMultiAgent.Core.Agents.Pm;
 /// <summary>
 /// Быстрые структурные логи для PM orchestration
 /// </summary>
-internal sealed class PmAgentTelemetry(ILogger log)
+internal sealed class PmAgentTelemetry(ILogger log  )
 {
     private const int DiffPreviewChars = 0;
     private const int MaxVerboseJsonChars = 20_000;

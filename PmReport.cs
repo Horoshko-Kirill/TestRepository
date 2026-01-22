@@ -1,5 +1,5 @@
 ﻿namespace AiMultiAgent.Core.Agents.Pm;
-
+  
 public sealed class PmReport
 {
     public Dictionary<string, object?> Meta { get; set; } = [];

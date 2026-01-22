@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using System.Text;
 
 namespace AiMultiAgent.Core.Agents.Pm;
-
+  
 /// <summary>
 /// Project Manager Agent
 /// Оркестрирует вызовы MCP tools, собирает ToolResults + Trace и просит LLM собрать финальный отчёт.
