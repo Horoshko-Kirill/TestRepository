@@ -1,4 +1,4 @@
-﻿namespace AiMultiAgent.Core.Agents.Pm;
+﻿ namespace AiMultiAgent.Core.Agents.Pm;
 
 public sealed class PmPlanStep
 {
