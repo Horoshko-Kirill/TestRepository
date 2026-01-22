@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
  
 namespace AiMultiAgent.Core.Agents.Pm;
-
+ 
 /// <summary>
 /// Быстрые структурные логи для PM orchestration
 /// </summary>

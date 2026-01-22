@@ -1,5 +1,5 @@
 ﻿ namespace AiMultiAgent.Core.Agents.Pm;
-  
+   
 public sealed class PmPlanStep
 {
     public string Id { get; set; } = "";

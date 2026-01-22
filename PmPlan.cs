@@ -1,5 +1,5 @@
 ﻿namespace AiMultiAgent.Core.Agents.Pm;
-  
+   
 public sealed class PmPlan
 {
     public string Objective { get; set; } = "";
