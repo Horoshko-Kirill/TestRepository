@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Logging;
 using System.Text.Json;
-                           
+                              
 namespace AiMultiAgent.Core.Agents.CodeReview;
 /// <summary>
 /// Агент для выполнения автоматического code review с помощью LLM.
