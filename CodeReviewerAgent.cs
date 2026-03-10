@@ -9,7 +9,7 @@ namespace AiMultiAgent.Core.Agents.CodeReview;
 /// Получает файл и код, запрашивает LLM и возвращает структурированный результат ревью.
 /// </summary>
 public sealed class CodeReviewerAgent
-{
+{    
     private readonly IChatClient _chat;
     private readonly ILogger<CodeReviewerAgent> _log;
 
