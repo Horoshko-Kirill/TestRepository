@@ -1,6 +1,6 @@
 ﻿ namespace AiMultiAgent.Core.Agents.CodeReview;
 
-public sealed class CodeReviewResult
+public sealed class CodeReviewResult   
 {
     public string Summary { get; init; } = default!;
     public List<CodeReviewIssue> Issues { get; init; } = new();
