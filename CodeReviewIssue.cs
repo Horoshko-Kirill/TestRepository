@@ -1,5 +1,5 @@
 ﻿namespace AiMultiAgent.Core.Agents.CodeReview;
-
+   
 public sealed class CodeReviewIssue   
 {
     public string Severity { get; init; } = "info"; // info|warning|error
