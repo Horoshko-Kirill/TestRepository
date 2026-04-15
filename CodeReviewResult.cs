@@ -15,6 +15,7 @@ public sealed class CodeReviewResult
         {
             if (i.Severity is not ("info" or "warning" or "error"))
                 throw new InvalidOperationException($"Invalid severity: {i.Severity}");
-        }
+        }  
     }
 }
+   
